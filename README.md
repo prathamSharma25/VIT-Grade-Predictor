@@ -10,7 +10,7 @@ Using this data, a Decision Tree classifier model is trained to predict the grad
 ![VIT Grade Predictor - Pipeline](pipeline.png)
 
 ### Contribute
-You can contriubute to this project by providing more data by filling out [this Google form](https://forms.gle/JEQbXUttVeLRrFss8)
+You can contriubute to this project by providing more data by filling out [this Google form](https://forms.gle/JEQbXUttVeLRrFss8).
 
 ---
 
