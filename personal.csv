@@ -1,0 +1,30 @@
+﻿Course Code,Course Name,Internal 1,Internal 2,Internal 3,CAT 1,CAT 2,Theory FAT,Lab 1,Lab 2,Lab 3,Lab 4,Lab 5,Lab 6,Lab FAT,Project,Grade
+CHY1002,Environmental Science,8,7,8,39,31,,,,,,,,,,B
+CSE1001,Problem Solving and Programming,,,,,,,10,10,10,8.4,10,10,,,A
+EEE1001,Basic Electrical and Electronics Engineering,9,9,10,49,38,,10,10,10,9,9,10,,,A
+HUM1021,Ehtics and Values,8.3,8.5,8.1,40,39,,,,,,,,,,A
+MAT1011,Calculus for Engineers,7,7,10,43,42,,7,9,10,7,7,8,,,A
+PHY1701,Engineering Physics,8.75,10,5,39,28,,10,9.7,9.5,10,10,9,,,A
+CHY1701,Engineering Chemistry,8.5,9,8,41,38.5,68,9.7,9.7,10,7,7,10,48,,A
+CSE1002,Object Oriented Programming,,,,,,,10,9.5,9.25,9.94,10,10,,,A
+CSE1003,Digital Logic and Design,4,9,3,43,28,66,9,9.5,8.7,8.5,8,8,40,,A
+CSE2003,Data Structures and Algorithms,8,8,6,33,30,86,9,7,10,8,10,10,46,81,B
+MAT2001,Statistics for Engineers,6,3,5,45,29,78,9,9,10,10,10,10,47,,A
+MAT2002,Application of Differential and Difference Equations,10,8,6,44,43,78,10,10,9,10,10,9,48,,S
+CSE1007,Java Programming,9,9,6,37,35,74,9,9,8,8,10,10,38,,B
+CSE2001,Computer Architecture and Organisation,10,10,10,30.5,37,68,,,,,,,,,A
+CSE2002,Theory of Computation,8,6,6,40,25,66,,,,,,,,,A
+CSE2004,Database Management Systems,10,8,8,31,36,70,9,10,8,10,8,9,45,81,S
+CSE2005,Operating Systems,8,8,8.3,41.5,32.5,71,9,7,10,8,8,9,40,80,A
+PHY1999,Introduction to Innovative Projects,10,10,10,45,43,62.6,,,,,,,,80,A
+CSE1004,Network and Communication,9,10,9,30,37,80.2,9,8,6,6,8,9,38.33,,A
+CSE2006,Microprocessor and Interfacing,9,3.5,6,32.5,38,66.1,9,9,9,9,9,9,45,90,B
+CSE2008,Network Security,9,9,7,21,25,64.7,,,,,,,,91,B
+MAT1014,Discrete Mathematics,10,8,10,34,45,86.2,,,,,,,,,A
+MAT3004,Applied Linear Algebra,10,5,8,41,40,78.8,,,,,,,,,A
+CSE3002,Internet and Web Programming,10,9,6.75,42,38,,9,9,9,9,9,9,,,
+CSE3020,Data Visualization,6.5,8,8,29,30,,7.5,7.5,7.5,8,7,7,,,
+CSE3024,Web Mining,9,8,9,35,28,,10,10,9,9,9,10,,,
+CSE3501,Information Security Analysis and Audit,8,10,8,43,43,,10,10,10,10,10,10,,,
+CSE4001,Parallel and Distributed Computing,10,8,10,45,37,,10,10,10,10,10,10,,,
+CSE4015,Human Computer Interaction,8,6,4,40,37,,,,,,,,,,
