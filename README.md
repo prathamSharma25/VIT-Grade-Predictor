@@ -20,4 +20,4 @@ Student at Vellore Institute of Technology, Vellore, Tamil Nadu, India
 
 Reach out to me: prathams2425@gmail.com
 
-LinkedIn profile: https://www.linkedin.com/in/pratham-sharma-620418178/
+LinkedIn profile: https://www.linkedin.com/in/prathamSharma25/
